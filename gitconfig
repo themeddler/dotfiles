@@ -1,0 +1,7 @@
+[user]
+	name = Michael Medellin
+	email = michael.medellin@gmail.com
+[credential]
+	helper = osxkeychain
+[alias]
+	co = checkout
