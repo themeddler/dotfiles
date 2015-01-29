@@ -12,4 +12,6 @@ filetype indent plugin on
 :inoremap ( ()<Esc>i
 :inoremap <C-j> <Esc>/[)}"'\]>]<CR>a
 
-execute pathogen#infect()
+runtime bundle/vim-pathogen/autoload/pathogen.vim
+call pathogen#infect()
+call pathogen#helptags()
