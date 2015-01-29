@@ -1,5 +1,7 @@
 - link:
-    ~/.vim: vim/
+    ~/.vim:
+      path: vim/
+      force: true
     ~/.vimrc: vimrc
     ~/.gitconfig: gitconfig
 - shell:
