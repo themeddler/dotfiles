@@ -1,5 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Volumes/HDD/Dropbox/sites/ryanmedellin.com'
-let g:netrw_dirhist_2='/Volumes/HDD/Dropbox/sites'
-let g:netrw_dirhist_3='/Volumes/HDD/Dropbox/sites/ryanmedellin.com'
+let g:netrw_dirhist_cnt =0
