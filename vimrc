@@ -10,7 +10,7 @@ let g:netrw_list_hide= '.*\.swp$'
 
 syntax enable
 
-filetype indent plugin on
+" filetype indent plugin on
 
 :inoremap ( ()<Esc>i
 :inoremap <C-j> <Esc>/[)}"'\]>]<CR>a
